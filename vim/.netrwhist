@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ducky/.i3'
+let g:netrw_dirhist_2='/home/ducky/NeuroImageAnalysis/src/test'
+let g:netrw_dirhist_3='/usr/local/games'
+let g:netrw_dirhist_4='/home/ducky/.local/share/Steam/userdata/122823108/config/controller_configs'
+let g:netrw_dirhist_5='/home/ducky/git/NeuroImageAnalysis/bin'
+let g:netrw_dirhist_6='/home/ducky/.i3/i3lock-extras/i3lock-fancy'
+let g:netrw_dirhist_7='/home/ducky/bin'

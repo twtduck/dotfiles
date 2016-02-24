@@ -1,0 +1,3 @@
+alias i3config='vim ~/.i3/config'
+alias winmount='sudo mount -t ntfs -o ro /dev/sdb2 /mnt'
+alias ls='ls -ltr --color=auto'
