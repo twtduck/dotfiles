@@ -6,3 +6,6 @@ set ruler
 set tabstop=4
 
 filetype plugin indent on
+
+call pathogen#helptags()
+

@@ -1,0 +1,12 @@
+# i3blocks config file
+# This is the personal config file for me. It is based on the generated one:
+# /etc/i3blocks.conf
+
+command=/usr/share/i3blocks/$BLOCK_NAME
+separator_block_width=15
+markup=none
+
+[time]
+color=#FF00FF
+command=date '+%m-%d-%Y %H:%M:%S'
+interval=1
